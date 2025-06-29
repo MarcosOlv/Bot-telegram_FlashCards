@@ -1,4 +1,4 @@
-# Bot de Flashcards para Telegram - botmarcos
+# Bot de Flashcards para Telegram - BotCard
 
 Um bot de flashcards estilo Anki para Telegram, desenvolvido em Python, com funcionalidades para organizar perguntas e respostas categorizadas. Inclui servidor web simples para monitoramento de uptime.
 
