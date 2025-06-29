@@ -1,0 +1,11 @@
+{
+  "Categoria 1": [
+    {
+      "pergunta": "Pergunta aqui",
+      "resposta": "Resposta aqui"
+    }
+  ],
+  "Categoria 2": [
+    ...
+  ]
+}
